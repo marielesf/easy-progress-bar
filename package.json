@@ -10,7 +10,7 @@
     "easy"
   ],
   "type": "commonjs",
-  "main": "index.js",
+  "main": "index.tsx",
   "repository": {
     "type": "git",
     "url": "https://github.com/marielesf/easy-progress-bar.git"
