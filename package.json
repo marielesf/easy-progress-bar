@@ -1,0 +1,21 @@
+{
+  "name": "@marielesf/easy-progress-bar",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mariele Fontana",
+  "keywords": [
+    "progress",
+    "bar",
+    "easy"
+  ],
+  "type": "commonjs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marielesf/easy-progress-bar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
